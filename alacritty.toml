@@ -25,7 +25,5 @@ action = "Paste"
 key = "V" 
 mods = "Control" 
 
-[[keyboard.bindings]]
-action = "Copy"
-key = "C" 
-mods = "Control"
+
+
